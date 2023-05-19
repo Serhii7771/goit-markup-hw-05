@@ -692,13 +692,7 @@ body {
   background-color: #404bbf;
 }
 
-.button-modal:hover,
-.button-modal-svg {
-  fill: #ffffff;
-}
-
-.button-modal:focus,
-.button-modal-svg {
+.button-modal:hover {
   fill: #ffffff;
 }
 
