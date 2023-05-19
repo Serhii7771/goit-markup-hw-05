@@ -81,6 +81,8 @@ img {
 
 .menu-item {
   padding: 24px 0;
+  position: relative;
+  color: #404bbf;
 }
 
 .menu-link {
