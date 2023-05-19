@@ -227,6 +227,7 @@ body {
 .section-one-button:hover,
 .section-one-button:focus {
   background-color: #404bbf;
+  border: none;
 }
 
 .title-one {
