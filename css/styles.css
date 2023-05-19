@@ -690,7 +690,7 @@ body {
 
 .button-modal:hover,
 .button-modal:focus,
-.button-modal-svg {
+.button-modal-svg:hover {
   fill: #ffffff;
 }
 
