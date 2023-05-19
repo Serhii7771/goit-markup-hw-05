@@ -691,6 +691,7 @@ body {
 .button-modal:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .button-modal-svg {
@@ -700,4 +701,7 @@ body {
 .button-modal-svg:hover,
 .button-modal-svg:focus {
   fill: #ffffff;
+   background-color: #404bbf;
+  border: none;
+}
 }
