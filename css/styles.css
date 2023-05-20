@@ -699,11 +699,6 @@ body {
   border: none;
 }
 
-.batton-modal:hover .button-modal-svg,
-.batton-modal:focus .button-modal-svg {
-  fill: #ffffff;
-}
-
 .button-modal-svg {
   fill: var(--secondary-text-color-theme-dark);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
