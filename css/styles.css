@@ -9,6 +9,7 @@
   --foter-icon-svg: #f4f4fd;
   --section-five-title: #2e2f42;
   --section-five-a: #8e8f99;
+  --secondary-text-color-theme-dark: #2e2f42;
 }
 
 .list {
@@ -699,6 +700,7 @@ body {
 }
 
 .button-modal-svg {
+  fill: var(--secondary-text-color-theme-dark);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
